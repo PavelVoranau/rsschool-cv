@@ -1,0 +1,27 @@
+body {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fcfcfa;
+}
+#header {
+    display: flex;
+    max-width: 1440px;
+    max-height: 450px;
+    background-color: #d1cfcb;
+}
+#main {
+    display: flex;
+    max-width: 1440px;
+    max-height: 750px;
+}
+#footer {
+    max-width: 1440px;
+    max-height: 150px;
+    background-color: #d1cfcb;
+}
+.img {
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+ }
