@@ -18,3 +18,30 @@ which is not very important for self-improvement
 and it is also an opportunity to get new acquaintances.
 It is also work and communication with people from different, 
 which will help me in practice to speak English.
+
+### **Skills:**
+
+* HTML5, CSS3
+
+* Git, GitHub
+
+* VS Code
+
+#### **Code**
+       
+       function multiply(a, b) {
+        return a * b
+       }
+
+##### **Education:**
+
+* University: BELARUSIAN STATE PEDAGOGICAL UNIVERSITY NAMED AFTER MAXIM TANK
+
+* Courses: JS/FE Pre-School 2022Q4(The Rolling Scopes School)
+
+
+##### **Languages:**
+
+* English- B1
+
+* Belarusian- B1
