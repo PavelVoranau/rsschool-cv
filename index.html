@@ -9,21 +9,26 @@
 </head>
 <body>
     <header id="header">
-        <nav class="navBar">
-            <ul class="listBar">
-                <li><a href="#contacts">CONTACTS</a></li>
-                <li><a href="#about">ABOUT ME</a></li>
-                <li><a href="#skill">SKILLS</a></li>
-                <li><a href="#code">CODE</a></li>
-                <li><a href="#education">EDUCATION</a></li>
-                <li><a href="#languages">LANGUAGES</a></li>
-            </ul>
-        </nav>
-        <img class="img" src="./img/my.jpg" alt="my foto">
-            <div class="menuHeader">
-                <h1 class="name">Voranau Pavel</h1>
-                <p class="novice">NOVICE FRONT-END DEVELOPER</p>
+        <div class="profileMenu">
+            <nav class="navBar">
+                <ul class="listBar">
+                    <li><a href="#contacts">CONTACTS</a></li>
+                    <li><a href="#about">ABOUT ME</a></li>
+                    <li><a href="#skill">SKILLS</a></li>
+                    <li><a href="#code">CODE</a></li>
+                    <li><a href="#education">EDUCATION</a></li>
+                    <li><a href="#languages">LANGUAGES</a></li>
+                </ul>
+            </nav>
+            <div class="userProfile">
+                <img class="img" src="./img/my.jpg" alt="my foto">
+                    <div class="user">
+                        <h1 class="name">Voranau Pavel</h1>
+                            <hr>
+                                <p class="novice">NOVICE FRONT-END DEVELOPER</p>
+                    </div>
             </div>
+        </div>    
     </header>
     <main id="main">
         <div class="sections">
@@ -64,9 +69,9 @@
             <section id="education">
                 <h2 class="captionEducation">EDUCATION:</h2>
                 <ul class="linkEducation">
-                    <li>University: <a href="https://ffv.bspu.by/">BELARUSIAN STATE PEDAGOGICAL UNIVERSITY NAMED AFTER
+                    <li>University:<a href="https://ffv.bspu.by/">BELARUSIAN STATE PEDAGOGICAL UNIVERSITY NAMED AFTER
                             MAXIM TANK</a><br>2015/2020</li>
-                    <li>Courses: <a href="https://app.rs.school/registry/student">JS/FE Pre-School 2022Q4(The Rolling
+                    <li>Courses:<a href="https://app.rs.school/registry/student">JS/FE Pre-School 2022Q4(The Rolling
                             Scopes School)<br>2022/2023</a></li>
                 </ul>
             </section>
@@ -80,9 +85,11 @@
         </div>
     </main>
     <footer id="footer">
-        <a  class="git" href="https://github.com/PavelVoranau"><img src="./img/git.png" alt="GitHub"></a>
-        <p class="since">&#169; 2013</p>
-        <a class="rolling" href="https://app.rs.school/registry/student"><img src="./img/rs.png" alt="Rolling Scopes"></a>
+        <div class="imgLink">
+            <a  class="git" href="https://github.com/PavelVoranau"><img src="./img/git.png" alt="GitHub"></a>
+            <p class="since">&#169; 2013</p>
+            <a class="rolling" href="https://app.rs.school/registry/student"><img src="./img/rs.png" alt="Rolling Scopes"></a>
+        </div>
     </footer>
 </body>
 </html>
