@@ -1,0 +1,51 @@
+body {
+    background-color: blanchedalmond;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+a {
+    text-decoration: none;
+    color: black;
+ }
+li{
+    list-style-type: none;
+ }
+header {
+    width: 100vw;
+    height: 43vh;
+    border-bottom: 2px solid black;
+}
+
+header il { 
+    padding-left: 3vw;
+    padding-right: 3vw;
+    display: inline;
+  }
+header h1 {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+header p {
+    text-align: center;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.spis {
+    background-color: blanchedalmond;
+    width: 100%;
+    height: 3vh;
+    margin: 0;
+    padding: 10px 0 10px 0;
+    text-align: center;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.myFoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 45%;
+ }
