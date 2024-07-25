@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/PavelVoranau/rsschool-cv/edit/gh-pages/
+https://github.com/PavelVoranau/rsschool-cv/edit/gh-pages/index.html
