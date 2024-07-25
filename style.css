@@ -1,0 +1,181 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: blanchedalmond;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style-type: none;
+}
+
+/* основные части */
+header {
+    width: 100vw;
+    border-bottom: 2px solid black;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: #e8d6bca1;
+    border-top: 2px solid black;
+    padding-top: 10px;
+}
+
+/* основные части */
+/* header */
+header il {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+header p {
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.spis {
+    background-color: #e8d6bca1;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    padding: 10px 0 10px 0;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+.myFoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 47%;
+}
+
+/* header */
+
+/* main */
+/* con */
+#con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#con h2 {
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#con ul {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+/* con */
+
+/* sum */
+#sum {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#sum h2 {
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#sum p {
+    text-align: justify;
+    margin-left: 40px;
+    margin-top: 8px;
+}
+
+/* sum */
+/* ski */
+#ski {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#ski h2 {
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#ski p {
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 760px;
+    margin-top: 8px;
+}
+
+/* ski */
+
+/* edu */
+#edu {
+    text-align: justify;
+    margin-right: 432px;
+    margin-top: 0;
+}
+
+#edu h2 {
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#edu a {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+/* edu */
+
+/* lan */
+#lan {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#lan h2 {
+    margin-bottom: 0;
+    margin-left: 40px;
+}
+
+#lan p {
+    text-align: justify;
+    margin-left: 40px;
+    margin-right: 600px;
+    margin-top: 8px;
+}
+
+/* lan */
+/* main */
+
+/* footer */
+#links img {
+    width: 123px;
+    height: 40px;
+}
+
+/* footer */
